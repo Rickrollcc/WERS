@@ -1,2 +1,2 @@
-# WERS
-https://emoji.waline.eu.org
+# WalineEmojiS
+https://emojis.waline.eu.org
